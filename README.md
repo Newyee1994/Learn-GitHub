@@ -5,3 +5,4 @@ I'm editing this file in the branch of readme-edits.
 
 - - - - -
  - [x] 用 git 命令 **clone** 到本地，编辑之后再 ``push``
+ - [x] 再编辑一次，第二次`push`
