@@ -21,5 +21,4 @@ I'm editing this file in the branch of readme-edits.
 7. git merge dev / git rebase dev
 8. git push origin master
 ```
-
-
+ - [x] Success!
