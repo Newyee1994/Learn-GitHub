@@ -21,5 +21,13 @@ I'm editing this file in the branch of readme-edits.
 7. git merge dev / git rebase dev
 8. git push origin master
 ```
+>git checkout dev<br/>
+>git branch -d dev
+
  - [x] Success!
 - - - - -
+
+### 标签管理
+- git checkout master　# 切换到需要创建标签的分支
+- git tag v1.0　　　　　# 创建新的标签
+- git tag　　　　　　　# 查看当前标签
